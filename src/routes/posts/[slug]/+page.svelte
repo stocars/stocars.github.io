@@ -30,8 +30,6 @@
 
 <div class="text-text break space-y-5">{@html data.post.content}</div>
 
-<div class="hidden relative font-medium text-4xl text-3xl text-2xl text-xl text-lg font-normal opacity-90 italic px-3 py-2 border-l-2 border-l-primary-text text-text/70 bg-text/[0.025] rounded-r-lg bg-secondary/5 text-sm rounded-md p-1.5 text-accent font-semibold rounded-md mb-5 border border-black/20 border-text/10"></div>
-
 <style>
   :global(pre) {
     overflow-x: auto;
