@@ -49,16 +49,16 @@
     Veríme, že naša rôznorodosť nás robí silným tímom schopným riešiť široké spektrum výziev.
   </p>
 
-  <div class="grid grid-cols-3 gap-4">
+  <div class="grid grid-cols-3 gap-1 sm:gap-2 rounded-2xl overflow-hidden shadow-xl">
     {#each members as [name, picture]}
-      <div class="relative aspect-square bg-text/5 overflow-hidden rounded-xl">
+      <div class="relative aspect-square bg-text/5 overflow-hidden">
         <img 
           src={picture}
           class="w-full h-full object-cover"
           alt="member profile">
 
         <div class="absolute z-20 bottom-0 inset-x-0 p-2 md:p-4 pt-10 bg-gradient-to-t from-black/80 via-black/50 to-transparent">
-          <span class="text-text font-medium text-md md:text-xl">{name}</span>
+          <span class="text-text font-medium text-sm sm:text-xl">{name}</span>
         </div>
       </div>
     {/each}
