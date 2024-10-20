@@ -31,15 +31,16 @@
 
 <section class="space-y-4">
   <div class="flex space-x-4 items-start">
-    <div class="flex flex-col space-y-4">
-      <h1 class="text-text text-4xl font-bold">Stocars 💯🏎️</h1>
-      <p class="text-text">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis, assumenda.
-      </p>
+    <div class="flex flex-col space-y-6">
+      <h1 class="text-text text-3xl">Tímový Projekt</h1>
+      <h1 class="text-text text-5xl font-extrabold">Virtuálny semafor</h1>
+      <p class="text-text font-medium">Vedúci <span class="text-accent">Ing. Jozef Juraško</span></p>
     </div>
   </div>
 
-  <h1 class="text-text text-2xl font-bold">Team members 👥</h1>
+  <hr class="border-text/10">
+
+  <h1 class="text-text text-2xl font-bold">Team <span class="text-accent">Stocars</span> 💯🏎️</h1>
 
   <p class="text-text">
     Sme zohratý tím študentov z FIIT STU, ktorí majú bohaté skúsenosti so spoločnou prácou na rôznych projektoch. 

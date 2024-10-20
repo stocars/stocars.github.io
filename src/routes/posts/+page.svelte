@@ -4,10 +4,10 @@
   export let data: PageServerData
 </script>
 
-<h1 class="text-text text-3xl font-bold">Zápisnica</h1>
+<h1 class="text-text text-3xl font-bold">Zápisnice</h1>
 
 <svelte:head>
-  <title>Zápisnica</title>
+  <title>Zápisnice</title>
 </svelte:head>
 
 <div class="flex flex-col space-y-3">

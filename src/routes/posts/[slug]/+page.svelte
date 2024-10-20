@@ -30,6 +30,8 @@
 
 <div class="text-text break space-y-5">{@html data.post.content}</div>
 
+<div hidden class={Object.values(data.classes).join(' ')}></div>
+
 <style>
   :global(pre) {
     overflow-x: auto;

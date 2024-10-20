@@ -27,7 +27,10 @@ export const load: PageServerLoad = async ({ params }) => {
     'pre': 'bg-text/[0.02]',
     'img': 'rounded-md mb-5 border border-black/20',
     'li': 'ml-8 list-disc',
-    'hr': 'border-text/10'
+    'hr': 'border-text/10',
+    'th': 'py-2 px-2 border text-accent border-text/10',
+    'td': 'py-2 px-2 border border-text/10',
+    'table': 'w-full border border-text/10 rounded-xl'
   }
 
   let html = engine.render(content)
@@ -40,6 +43,7 @@ export const load: PageServerLoad = async ({ params }) => {
   }
 
   return {
+    classes,
     post: {
       content: html,
       meta: JSON.parse(meta),

@@ -12,6 +12,6 @@
     <a 
       href="/posts" 
       class="flex items-center py-4 font-medium text-accent hover:underline underline-offset-4"
-      class:underline={$page.url.pathname.includes('/posts')}>Zápisnica</a>
+      class:underline={$page.url.pathname.includes('/posts')}>Zápisnice</a>
   </div>
 </nav>

@@ -1,12 +1,6 @@
-@import "tailwindcss";
-
-@theme {
-  --color-text: #ebe7e5;
-  --color-background: #181a1b;
-  --color-primary: #d3b878;
-  --color-secondary: #99741e;
-  --color-accent: #fabd2f;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 html, body {
   scrollbar-gutter: stable both-edges;
