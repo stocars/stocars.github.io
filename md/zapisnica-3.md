@@ -1,5 +1,5 @@
 { 
-  "title": "Zápisnica 2", 
+  "title": "Zápisnica 3", 
   "description": "Zápisnica zo dňa 24.10.2024", 
   "url": "https://www.fiit.stuba.sk/", 
   "topics": [],
