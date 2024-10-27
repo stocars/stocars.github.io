@@ -4,7 +4,7 @@
     ['Martin Hric', 'https://avatars.githubusercontent.com/u/71594400?v=4'],
     ['Dominik Mifkovič', 'https://avatars.githubusercontent.com/u/71759745?v=4'],
     ['Dmytro Dzuha', '/members/dmytro.webp'],
-    ['Ján Slížik', 'https://avatars.githubusercontent.com/u/71568783?v=4'],
+    ['Ján Sližik', 'https://avatars.githubusercontent.com/u/71568783?v=4'],
     ['Adam Hladík', 'https://avatars.githubusercontent.com/u/57076047?v=4'],
   ]
 </script>
