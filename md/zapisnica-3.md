@@ -3,7 +3,7 @@
   "description": "Zápisnica zo dňa 24.10.2024", 
   "url": "https://www.fiit.stuba.sk/", 
   "topics": [],
-  "date": "27.10.2024"
+  "date": "27-10-2024"
 } 
 
 %%%
