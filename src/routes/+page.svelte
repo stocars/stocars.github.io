@@ -2,7 +2,7 @@
   const members = [
     ['Ramon Urge', 'https://avatars.githubusercontent.com/u/71756887?v=4'],
     ['Dominik Mifkovič', 'https://avatars.githubusercontent.com/u/71759745?v=4'],
-    ['Dmytro Dzuha', '/members/dmytro.webp'],
+    ['Dmytro Dzhuha', '/members/dmytro.webp'],
     ['Ján Sližik', 'https://avatars.githubusercontent.com/u/71568783?v=4'],
     ['Adam Hladík', 'https://avatars.githubusercontent.com/u/57076047?v=4'],
   ]
